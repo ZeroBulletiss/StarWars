@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Muli:400,700&display=swap");
+
+#app {
+  background-image: url("https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1370&q=80");
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Muli", sans-serif;
+}

@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  width: 400px;
+  height: 500px;
+  border-radius: 10%;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+}
+
+.form strong {
+  font-size: 46px;
+  margin-bottom: 40px;
+}
+
+.form button {
+  margin-top: 20px;
+}
